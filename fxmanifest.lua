@@ -16,10 +16,3 @@ shared_scripts {
   'configs/**.lua',
   '@ox_lib/init.lua'
 }
-
-escrow_ignore {
-  'client/main.lua',
-  'server/main.lua',
-  'configs/config.lua',
-  'configs/config-lang.lua'
-}
